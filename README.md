@@ -8,7 +8,7 @@
 ![Provider](https://img.shields.io/badge/provider-Right%20Code-2563EB?style=flat-square)
 ![Model](https://img.shields.io/badge/model-gpt--image--2-16A34A?style=flat-square)
 
-[GitHub 仓库](https://github.com/yfpgle-glitch/right-code-imagegen) · 中文 · [English](README_EN.md)
+[GitHub 仓库](https://github.com/yfpgle-glitch/rightcode-imagegen) · 中文 · [English](README_EN.md)
 
 </div>
 
@@ -24,14 +24,14 @@
 
 ```text
 请把这个仓库根目录作为 Skill 安装：
-https://github.com/yfpgle-glitch/right-code-imagegen
+https://github.com/yfpgle-glitch/rightcode-imagegen
 ```
 
 安装后，如果没有识别，重新打开一个任务或会话。
 
 ### WorkBuddy
 
-1. [下载 Skill 压缩包](https://github.com/yfpgle-glitch/right-code-imagegen/archive/refs/heads/main.zip)。
+1. [下载 Skill 压缩包](https://github.com/yfpgle-glitch/rightcode-imagegen/archive/refs/heads/main.zip)。
 2. 在 WorkBuddy 中打开“添加技能”，选择“上传技能”。
 3. 上传刚刚下载的压缩包。
 

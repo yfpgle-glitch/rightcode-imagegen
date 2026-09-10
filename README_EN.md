@@ -8,7 +8,7 @@
 ![Provider](https://img.shields.io/badge/provider-Right%20Code-2563EB?style=flat-square)
 ![Model](https://img.shields.io/badge/model-gpt--image--2-16A34A?style=flat-square)
 
-[GitHub repository](https://github.com/yfpgle-glitch/right-code-imagegen) · [中文](README.md) · English
+[GitHub repository](https://github.com/yfpgle-glitch/rightcode-imagegen) · [中文](README.md) · English
 
 </div>
 
@@ -24,14 +24,14 @@ Send this message to Codex or Claude Code:
 
 ```text
 Install the root of this repository as a Skill:
-https://github.com/yfpgle-glitch/right-code-imagegen
+https://github.com/yfpgle-glitch/rightcode-imagegen
 ```
 
 After installation, open a new task or session if the Skill is not detected.
 
 ### WorkBuddy
 
-1. [Download the Skill archive](https://github.com/yfpgle-glitch/right-code-imagegen/archive/refs/heads/main.zip).
+1. [Download the Skill archive](https://github.com/yfpgle-glitch/rightcode-imagegen/archive/refs/heads/main.zip).
 2. In WorkBuddy, open **Add Skill** and select **Upload Skill**.
 3. Upload the archive you downloaded.
 
